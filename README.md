@@ -34,7 +34,7 @@ https://github.com/Ticianee/ethanol-or-gasoline/assets/76972629/e4fbe895-7220-48
 <br>
 
 ## Project access 📁
-You can access the project files by clicking [here] or view the project [here](https://ticianee.github.io/ethanol-or-gasoline/).
+You can access the project files by clicking [here](https://github.com/Ticianee/ethanol-or-gasoline) or view the project [here](https://ticianee.github.io/ethanol-or-gasoline/).
 
 <br>
 

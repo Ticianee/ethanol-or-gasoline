@@ -22,7 +22,7 @@
 <br>
 
 ## Application :bulb:
-https://github.com/Ticianee/ethanol-or-gasoline/assets/76972629/b77b9acb-20ff-493b-bfe2-28be6f3df207
+https://github.com/Ticianee/ethanol-or-gasoline/assets/76972629/e4fbe895-7220-486b-b621-0c5737d5e59f
 
 <br>
 
